@@ -20,7 +20,6 @@ Inicio
          x2 <- (-b - RaizQ(delta)) / (2 * a)
          escreval("X1 = ", x1:6:4)
          escreva("X2 = ", x2:6:4)
-         
       fimse
 
 
