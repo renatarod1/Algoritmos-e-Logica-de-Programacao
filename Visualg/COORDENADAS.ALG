@@ -1,7 +1,7 @@
 Algoritmo "Coordenadas"
 
 Var
-   x, y : inteiro
+   x, y : real
 
 Inicio
    escreva("Valor de X: ")
