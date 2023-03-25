@@ -1,4 +1,6 @@
 Algoritmo "pares_consecutivos"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 
 Var
    n, soma : inteiro
