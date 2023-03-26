@@ -18,9 +18,7 @@ Inicio
             se (y > 0) e (x < 0) entao
                escreval("QUADRANTE Q2")
             senao
-               se (y < 0) e (x < 0) entao
-                  escreval("QUADRANTE Q3")
-               fimse
+               escreval("QUADRANTE Q3")
             fimse
          fimse
       fimse
