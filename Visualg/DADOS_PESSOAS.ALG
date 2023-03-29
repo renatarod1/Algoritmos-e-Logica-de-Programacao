@@ -16,7 +16,7 @@ Inicio
       escreva("Genero da", i+1,"a pessoa: ")
       leia(generos[i])
    fimpara
-   
+
    menorAltura <- alturas[0]
    maiorAltura <- alturas[0]
    para i de 0 ate N-1 faca
@@ -40,8 +40,13 @@ Inicio
       fimse
    fimpara
 
-   mediaAltura <- somaAltura / (N - contHomens)
-   escreval("Media das alturas das mulheres = ", mediaAltura:2:2)
+   se (N - contHomens) = 0 entao
+      escreval("Impossivel calcular a altura media das mulheres")
+   senao
+      mediaAltura <- somaAltura / (N - contHomens)
+      escreval("Media das alturas das mulheres = ", mediaAltura:2:2)
+   fimse
+   
    escreva("Numero de homens = ", contHomens)
 
 Fimalgoritmo
