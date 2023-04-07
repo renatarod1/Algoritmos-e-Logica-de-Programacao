@@ -14,7 +14,8 @@ Inicio
          leia(mat[i,j])
       fimpara
    fimpara
-
+   
+   soma <- 0
    para i de 0 ate N-1 faca
       para j de i+1 ate N-1 faca
          soma <- soma + mat[i,j]
