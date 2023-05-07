@@ -39,7 +39,7 @@ public class comerciante {
 			percentualLucro = lucro * 100 / precoCompra[i];
 			if (percentualLucro < 10.0) {
 				lucroAbaixo10++;
-			} else if (percentualLucro >= 10.0 && percentualLucro <= 20.0) {
+			} else if (percentualLucro < 20.0) {
 				lucroEntre10e20++;
 			} else {
 				lucroAcima20++;
