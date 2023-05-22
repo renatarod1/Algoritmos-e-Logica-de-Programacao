@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aumento", "aumento\aumento.csproj", "{24515B30-9FD5-4C76-BEA3-CF9D8665307F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24515B30-9FD5-4C76-BEA3-CF9D8665307F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24515B30-9FD5-4C76-BEA3-CF9D8665307F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24515B30-9FD5-4C76-BEA3-CF9D8665307F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24515B30-9FD5-4C76-BEA3-CF9D8665307F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {172B4C5D-4748-4761-8EB1-13DBFB862C5D}
+	EndGlobalSection
+EndGlobal
