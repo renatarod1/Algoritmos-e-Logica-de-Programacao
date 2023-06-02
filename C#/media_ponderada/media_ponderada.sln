@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "par_impar", "par_impar\par_impar.csproj", "{4A0904AE-15F1-47C3-AA24-04564FF446A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "media_ponderada", "media_ponderada\media_ponderada.csproj", "{77F13232-89BC-49AD-8AE0-525515E8E1A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4A0904AE-15F1-47C3-AA24-04564FF446A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4A0904AE-15F1-47C3-AA24-04564FF446A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4A0904AE-15F1-47C3-AA24-04564FF446A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4A0904AE-15F1-47C3-AA24-04564FF446A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F13232-89BC-49AD-8AE0-525515E8E1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F13232-89BC-49AD-8AE0-525515E8E1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F13232-89BC-49AD-8AE0-525515E8E1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F13232-89BC-49AD-8AE0-525515E8E1A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3A41751B-9FE7-4246-A31F-8A95AD72F5B0}
+		SolutionGuid = {0BA3836B-16EA-425E-A50A-E45D7EFCA1F4}
 	EndGlobalSection
 EndGlobal
