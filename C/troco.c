@@ -2,7 +2,7 @@
 
 int main()
 {
-    double preco, vlRecebido, total, troco;
+    double preco, vlRecebido, troco;
     int qtd;
 
     printf("Preco unitario do produto: ");
