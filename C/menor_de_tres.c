@@ -13,7 +13,6 @@ int main()
     printf("Terceiro valor: ");
     scanf("%d", &n3);
 
-    menor = 0;
     if (n1 < n2 && n1 < n3){
         menor = n1;
     } else if (n2 < n3){
