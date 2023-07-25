@@ -8,7 +8,6 @@ int main()
     printf("Quantos casos voce vai digitar? ");
     scanf("%d", &n);
 
-    divisao = 0.0;
     for (int i = 0; i < n; i++)
     {
         printf("Entre com o numerador: ");
