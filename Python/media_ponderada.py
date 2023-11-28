@@ -1,6 +1,6 @@
 n =  int(input("Quantos casos voce vai digitar? "))
 
-for i in range(0, 3):
+for i in range(0, n):
     print("Digite tres numeros:")
     n1 = float(input())
     n2 = float(input())
